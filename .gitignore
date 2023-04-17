@@ -1,0 +1,16 @@
+**/*.hdf5
+**/*.h5
+**/*.pyc
+**/.ipynb_checkpoints/*.*
+**/*.zip
+**/*.tfrecord
+**/*.index
+**/checkpoints/*.*
+**/checkpoint
+**/*.xml
+**/ckpts/
+**/*.ttf
+**/ckpt*.*
+**/*.mp4
+**/*.7z*
+**/*.npy
